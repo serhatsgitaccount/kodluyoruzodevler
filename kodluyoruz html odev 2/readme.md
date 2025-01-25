@@ -25,7 +25,7 @@ Merhaba. Ben Serhat. Fanstastik filmler, diziler izlemeye bayılıyorum. Bunlard
                 Benjamin Button'ın Tuhaf Hikayesi
             </li>
             <li>
-             <a href="https://www.imdb.com/title/tt0120689/">
+             <a href="https://www.imdb.com/title/tt0120689/" target="_blank">
                 The Green Mile
              </a>
             </li>
@@ -37,17 +37,17 @@ Merhaba. Ben Serhat. Fanstastik filmler, diziler izlemeye bayılıyorum. Bunlard
     <li>dizi
         <ul>
             <li>
-                <a href="https://www.imdb.com/title/tt11126994/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_arca">
+                <a href="https://www.imdb.com/title/tt11126994/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_arca" target="_blank">
                     Arcane
                 </a>
             </li>
             <li>
-                <a href="https://www.imdb.com/title/tt1199099/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_merlin">
+                <a href="https://www.imdb.com/title/tt1199099/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_merlin" target="_blank">
                     Merlin
                 </a>
             </li>
             <li>
-                <a href="https://www.imdb.com/title/tt0318871/" target="_blank">
+                <a href="https://www.imdb.com/title/tt0318871/" target="_blank" target="_blank">
                     Berserk(1997)
                 </a>
             </li>
